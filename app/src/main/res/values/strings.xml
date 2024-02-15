@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foto Y Video</string>
+    <string name="btn_tomarfoto">Tomar Foto</string>
+    <string name="btn_tomarvideo">Tomar Video</string>
+    <string name="btn_enviarfoto">Enviar Foto</string>
+    <string name="btn_capturarfoto">Tomar Foto</string>
+    <string name="btn_capturarvideo">Tomar Video</string>
+    <string name="btn_enviarvideo">Enviar Video</string>
+</resources>
